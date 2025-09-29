@@ -20,3 +20,9 @@ header>a:hover{
 footer>a:hover{
     text-decoration: underline;
 }
+
+section{
+    padding-top: 10vh;
+    padding-left: 30px;
+    padding-bottom: 10vh;
+}
